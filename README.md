@@ -7,7 +7,6 @@
   - [x] Chosse priority for your task.
   - [x] Designed with 2 tabs for better user
    experience, all-tasks and Done tasks.
-  - [x] Includin exe file.
 - views:
 
 ![todolist](Screenshot.png)
